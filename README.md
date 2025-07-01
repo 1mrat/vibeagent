@@ -6,9 +6,7 @@ So you can quickly create a repo & launch cursor's Web Agent without using their
 
 ## Steps
 
-1. Create repo from this template
-
-[Create your Web Agent Repo](https://github.com/1mrat/vibeagent/generate)
+1. [Create your Web Agent Repo](https://github.com/1mrat/vibeagent/generate)
 
 2. Make sure Cursor has write permissions to the repo
 
@@ -20,3 +18,6 @@ Then make sure cursor has permissions to your new repo.
 
 Open [Cursors Web Agent](https://www.cursor.com/agent) and below the prompt field, select your new repo. Then just enter the prompt and let Cursor do its thing.
 
+Here are some more Cursor tips:
+- [Cursor Web Agent without Desktop](https://x.com/imrat/status/1939976357640819002) 
+- [Background Agent tips & tricks](https://x.com/imrat/status/1939678545745498480)
