@@ -8,7 +8,7 @@ So you can quickly create a repo & launch cursor's Web Agent without using their
 
 1. Create repo from this template
 
-[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/1mrat/vibeagent/generate)
+[Create your Web Agent Repo](https://github.com/1mrat/vibeagent/generate)
 
 2. Make sure Cursor has write permissions to the repo
 
